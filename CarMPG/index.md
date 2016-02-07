@@ -52,7 +52,6 @@ Using Car MPG is straightforward:<br/>
 Select the car model from the dropdown on the left side , and it will display the milage per gallon for the selected car in the right side
 
 ![width](AppImg.PNG)
-
 ---
 
 ## Get application
