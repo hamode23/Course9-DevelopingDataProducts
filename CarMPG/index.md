@@ -55,7 +55,7 @@ Select the car model from the dropdown on the left side , and it will display th
 
 ---
 
-## Get application1
+## Get application
 
 
 car MPG application is avaliable here :<br/>
