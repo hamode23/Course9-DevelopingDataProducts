@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/151039/1b0f6e8bfcb641c883672b2d2156c7ab
+url: http://rpubs.com/Hamode23/151039
+when: 1454828290.49859
