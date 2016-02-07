@@ -61,5 +61,3 @@ Select the car model from the dropdown on the left side , and it will display th
 car MPG application is avaliable here :<br/>
 
 https://hamode23.shinyapps.io/CarMpg/
-
----
